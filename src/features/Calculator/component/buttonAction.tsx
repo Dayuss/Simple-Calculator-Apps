@@ -21,7 +21,8 @@ function ButtonAction() {
         
         // check if checklist less than 2
         if(number.length<2){
-            alert("Error! Check up to 2 form to continue.")
+            alert("Error! Check up to 2 form to continue.");
+            return false;
         }
 
         switch(type){
