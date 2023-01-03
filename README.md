@@ -2,6 +2,6 @@
 
 How to run:
 - Clone this repository
-- npm run install
+- npm install
 - npm run start
 
